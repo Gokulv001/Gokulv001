@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulv001" alt="gokulv001" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **Softye Technologies**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react,Node,Express,MonogoDb**
 
 - 💬 Ask me about **I'm Gokul, Im'ma B.E(ECE) student.**
 
